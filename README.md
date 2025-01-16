@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Peter Martin Berg</h1>
-<h3 align="center">I'm a passionate Cloud-, Fullstack Webapp. and Dev/Ops Developer in an education which still takes about half a year to complete.</h3>
+<h3 align="center">I'm a passionate Cloud-, Fullstack Webapp. and Dev/Ops Developer and finished my and successfully completed my Advanced Training as a (Junior) Cloud&DevOps Engineer on 16.01.25. </h3>
 
-- 🌱 I’m currently learning **better using Git and GitHub and next MS Azure**
+- 🌱 But I'll never stop learning **IT** as everyone working in this field.
 
 - 👨‍💻 All of my projects are available at [https://github.com/petermartinberg](https://github.com/petermartinberg)
 
